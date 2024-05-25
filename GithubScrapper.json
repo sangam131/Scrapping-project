@@ -1,0 +1,82 @@
+[
+    {
+        "Name": "Non-related headings are marked up with H3 and H4",
+        "LInk": "https://github.com/mmistakes/minimal-mistakes/issues/3655"
+    },
+    {
+        "Name": "Permalink anchors in headers affects SEO",
+        "LInk": "https://github.com/mmistakes/minimal-mistakes/issues/3654"
+    },
+    {
+        "Name": "Giscus missing config tags",
+        "LInk": "https://github.com/mmistakes/minimal-mistakes/issues/3574"
+    },
+    {
+        "Name": "Add alt text for og:image",
+        "LInk": "https://github.com/mmistakes/minimal-mistakes/issues/3562"
+    },
+    {
+        "Name": "Search feature",
+        "LInk": "https://github.com/mmistakes/minimal-mistakes/issues/3319"
+    },
+    {
+        "Name": "Line break before footnote callout",
+        "LInk": "https://github.com/daattali/beautiful-jekyll/issues/979"
+    },
+    {
+        "Name": "Any chance of a new release?",
+        "LInk": "https://github.com/daattali/beautiful-jekyll/issues/870"
+    },
+    {
+        "Name": "Consider using SCSS instead of CSS",
+        "LInk": "https://github.com/daattali/beautiful-jekyll/issues/661"
+    },
+    {
+        "Name": "Jekyll 4.1 Support",
+        "LInk": "https://github.com/daattali/beautiful-jekyll/issues/660"
+    },
+    {
+        "Name": "Footer stick to the bottom when contents are short or absent",
+        "LInk": "https://github.com/daattali/beautiful-jekyll/issues/576"
+    },
+    {
+        "Name": "Can't put out fire.",
+        "LInk": "https://github.com/cuberite/cuberite/issues/5422"
+    },
+    {
+        "Name": "HOOK_PLAYER_JOINED not accurate with bungeeCord connections",
+        "LInk": "https://github.com/cuberite/cuberite/issues/5421"
+    },
+    {
+        "Name": "Mobs don't collide with multi-layer snow in any way",
+        "LInk": "https://github.com/cuberite/cuberite/issues/5410"
+    },
+    {
+        "Name": "Redstone on Y:1 Crashes the server",
+        "LInk": "https://github.com/cuberite/cuberite/issues/5404"
+    },
+    {
+        "Name": "No Potion Effect When connecting with Forge Client",
+        "LInk": "https://github.com/cuberite/cuberite/issues/5400"
+    },
+    {
+        "Name": "Filter plugin.xml's libraries for existing libs",
+        "LInk": "https://github.com/PaperMC/Paper/issues/7961"
+    },
+    {
+        "Name": "Papers plugin updater should log an exception if IO operations fail",
+        "LInk": "https://github.com/PaperMC/Paper/issues/7958"
+    },
+    {
+        "Name": "Usage of a paper-plugin.yml file for Paper-specific plugins",
+        "LInk": "https://github.com/PaperMC/Paper/issues/7955"
+    },
+    {
+        "Name": "Subspace Bubble unlocks in all overworlds",
+        "LInk": "https://github.com/PaperMC/Paper/issues/7953"
+    },
+    {
+        "Name": "Add method to update title when inventory is open",
+        "LInk": "https://github.com/PaperMC/Paper/issues/7950"
+    }
+]
